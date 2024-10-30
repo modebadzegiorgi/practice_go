@@ -1,0 +1,12 @@
+mode: set
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:15.29,20.29 3 1
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:20.29,22.3 1 1
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:24.2,24.25 1 1
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:27.37,32.16 3 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:32.16,34.3 1 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:36.2,40.21 3 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:40.21,42.3 1 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:44.2,44.13 1 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:47.13,51.29 2 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:51.29,55.3 2 0
+github.com/modebadzegiorgi/practice_go/algs/bloom_filter/main.go:59.2,63.38 3 0

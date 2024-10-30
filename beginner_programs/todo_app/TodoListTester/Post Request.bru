@@ -1,0 +1,18 @@
+meta {
+  name: Post Request
+  type: http
+  seq: 3
+}
+
+options {
+  url: http://localhost:3000/todo
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+  "todo": "Get Up early tomorrow"
+  }
+  
+}
