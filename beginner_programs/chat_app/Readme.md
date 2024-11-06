@@ -1,5 +1,7 @@
 # Go WebSocket Chat Application
 
+Followed this [video](https://www.youtube.com/watch?v=JuUAEYLkGbM)
+
 This application is a real-time chat service built in Go using WebSockets for fast, two-way communication. The backend manages connections, broadcasts messages, and handles persistent message storage. The frontend is a basic HTML/JavaScript interface with a chat-like layout.
 
 ## How It Works
