@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Go WebSocket Chat</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">WebSocket Chat</div>
+
+    <div id="chat" class="chat-box">
+      <!-- Messages will appear here -->
+    </div>
+
+    <div class="chat-footer">
+      <input type="text" id="name" placeholder="Your name" />
+      <input type="text" id="message" placeholder="Type a message" />
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script src="static/script.js"></script>
+</body>
+</html>
